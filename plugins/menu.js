@@ -324,7 +324,7 @@ _${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik_
 
 Note: Jika ada Fitur yg Error Lapor ke owner
 `,
-      footer: `AhmdLui 🥶🥶`,
+      footer: `𝑳𝐮𝒙𝒙𝐲 𝐗𝒚𝒛 🥶🥶`,
       title: judul,
       buttonText: "Klik here",
       sections
