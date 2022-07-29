@@ -14,10 +14,10 @@ let handler = async (m, { conn }) => {
 │
 ├ 1 Premium / 30 Hari
 ├ Rp. 5,000 Gopay
-├ Rp. 10,000 Pulsa Three
+├ Rp. 10,000 Pulsa 𝑺𝒎𝒂𝒓𝒕𝒇𝒓𝒆𝒏
 │
 ├ tertarik? hubungi: 
-├ @62895336282144 (The.sad.boy01)
+├ @6288210072756 (𝑳𝒖𝒙𝒙𝒚𝑿𝒚𝒛)
 └────
 `.trim(),
         "listType": "PRODUCT_LIST",
@@ -36,9 +36,9 @@ let handler = async (m, { conn }) => {
                 "productId": "4730029423700586",
                 "jpegThumbnail": baper
             },
-            "businessOwnerJid": "6288217277973@s.whatsapp.net"
+            "businessOwnerJid": "6288210072756@s.whatsapp.net"
         },
-        "footerText": "https://wa.me/c/6288217277973\n\nowner number : wa.me/62895336282144"
+        "footerText": "https://wa.me/c/6288210072756\n\nowner number : wa.me/62895336282144"
     }
     conn.sendMessage(m.chat, listMessage, 'listMessage', { quoted: m, contextInfo: { mentionedJid: conn.parseMention(listMessage.description) } })
 }
